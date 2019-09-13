@@ -1,0 +1,13 @@
+#exclsdamnt
+
+How to run :
+
+Python
+python metnum.py / python3 metnum.py
+
+PHP
+php metnum.php
+
+Pascal
+1. fpc metnum.pas
+2. ./metnum
